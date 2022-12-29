@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -20,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://github.com/wolfgangdotdev/fem-qr-code-component)
+- [Live Site](https://your-live-site-url.com)
 
 ## My process
 
